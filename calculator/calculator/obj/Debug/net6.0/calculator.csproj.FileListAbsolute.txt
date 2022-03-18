@@ -1,0 +1,15 @@
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\bin\Debug\net6.0\calculator.exe
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\bin\Debug\net6.0\calculator.deps.json
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\bin\Debug\net6.0\calculator.runtimeconfig.json
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\bin\Debug\net6.0\calculator.dll
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\bin\Debug\net6.0\calculator.pdb
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.csproj.AssemblyReference.cache
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfoInputs.cache
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.AssemblyInfo.cs
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.csproj.CoreCompileInputs.cache
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.dll
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\refint\calculator.dll
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.pdb
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\calculator.genruntimeconfig.cache
+D:\kuliah_semes2\yasmine\calculator\calculator\calculator\obj\Debug\net6.0\ref\calculator.dll
